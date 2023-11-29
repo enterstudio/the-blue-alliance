@@ -4,7 +4,7 @@
   "dependencies": {
     "babel-polyfill": "^6.8.0",
     "classnames": "^2.2.3",
-    "material-ui": "^0.16.5",
+    "material-ui": "^0.20.2",
     "query-string": "^4.1.0",
     "react": "^15.4.1",
     "react-addons-transition-group": "^15.4.1",
